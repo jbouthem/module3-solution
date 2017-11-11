@@ -1,0 +1,13 @@
+h1, h2 {
+  text-align: center;
+}
+
+section {
+  padding: 5px  5px 10px 5px;;
+}
+
+.section-content {
+  background: #00FFFF;
+  padding: 10px;
+  margin: auto;
+}
