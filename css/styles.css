@@ -1,6 +1,32 @@
-h1, h2 {
-  text-align: center;
+/* Header */
+#header-nav {
+  background-color: #00FFFF;
+  border-radius: 0;
+  border: 0;
 }
+
+.navbar-default {
+  background-color: #00FFFF;
+}
+
+.navbar-brand {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+#nav-list {
+  clear: both;
+  background-color: white; 
+  margin: 2px;
+  width: 100%; 
+}
+
+#nav-list > li {
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+  border: 2px solid black; 
+} 
 
 section {
   padding: 5px  5px 10px 5px;;
